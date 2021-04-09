@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.google.applinkspro",
+    "sha256_cert_fingerprints":
+    ["14:98:F8:3E:D0:24:C7:D5:0B:90:6D:07:54:CF:A8:0E:72:FC:89:BE:5D:59:BB:90:C1:6B:2A:61:17:2E:E2:70"]
+  }
+}]
